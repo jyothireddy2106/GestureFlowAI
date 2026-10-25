@@ -262,7 +262,3 @@ GestureFlow AI explores how computer vision and gesture recognition can make hum
 - GitHub: [@jyothireddy2106](https://github.com/jyothireddy2106)
 
 ---
-
-## 📄 License
-
-A license has not yet been specified. Add a `LICENSE` file if you intend to distribute the project under a particular open-source license.
