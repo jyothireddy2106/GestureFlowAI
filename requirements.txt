@@ -1,0 +1,17 @@
+# GestureFlow AI - Core Dependencies
+# Compatible with Python 3.10 - 3.13
+
+# Computer Vision & Real-Time Tracking
+opencv-python>=4.10.0
+mediapipe>=0.10.0
+
+# Machine Learning & Data Processing
+numpy>=1.26.0
+scikit-learn>=1.5.0
+pandas>=2.2.0
+
+# Dashboard & Interactive UI
+streamlit>=1.35.0
+
+# Human-Computer Interaction & OS Automation (Phase 3)
+pyautogui>=0.9.54
